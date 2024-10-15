@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌱, I'm s4msk0  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreativemeadow.com%2Fproduct%2Fmystic-samurai%2F&psig=AOvVaw2mrI7OEZWHVaCj8cwWlyPt&ust=1729090852821000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDe3sPTkIkDFQAAAAAdAAAAABAE"></h2></h1>
+<h1 align="center">Hi 🌱, I'm s4msk0  <img src="https://giphy.com/gifs/Zg51pFbwzcTcI"></h2></h1>
 <div>
 
 - 👀 I’m interested in developpement and solving problem.
