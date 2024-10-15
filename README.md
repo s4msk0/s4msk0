@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌱, I'm s4msk0 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
+<h1 align="center">Hi 🌱, I'm s4msk0 <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F162713337%2FSAMURAI-VECTOR-GIF%3Flocale%3Dfr_FR&psig=AOvVaw1D2ipZhuydcQGKFZmfGXlc&ust=1729090551899000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCRvLLSkIkDFQAAAAAdAAAAABAE)" width="50"></h2></h1>
 <div>- 👀 I’m interested in developpement and solving problem.
 - 🌱 I’m currently learning Javascript.
 - 👾 I’m looking to collaborate on games
