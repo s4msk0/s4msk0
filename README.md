@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @s4msk0
-- 👀 I’m interested in developpement and solving problem.
+<h1 align="center">Hi 🌱, I'm s4msk0 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
+<div>- 👀 I’m interested in developpement and solving problem.
 - 🌱 I’m currently learning Javascript.
 - 👾 I’m looking to collaborate on games
 
