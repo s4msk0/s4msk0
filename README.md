@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Javascript.
 - 👾 I’m looking to collaborate on games
 
-![image](https://github.com/user-attachments/assets/7f87e2ad-9cc2-413a-9aa8-706cdb3d633c)
+![image](https://github.com/user-attachments/assets/ac498e7f-e6bb-41d6-8496-a4d60d03b3e7)
+
 
 
 <!---
