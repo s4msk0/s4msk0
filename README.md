@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Javascript.
 - 👾 I’m looking to collaborate on games
 
-![image](https://github.com/user-attachments/assets/ac498e7f-e6bb-41d6-8496-a4d60d03b3e7)
 
 
+<a href = 'https://www.python.org' target = '_blank'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' width='40' height='40' /> </a>
 
 <!---
 s4msk0/s4msk0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
