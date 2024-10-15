@@ -4,6 +4,8 @@
 - 👀 I’m interested in developpement and solving problem.
 - 🌱 I’m currently learning Javascript.
 - 👾 I’m looking to collaborate on games
+- 📫 How to reach me **mefrouche03@gmail.com**
+
 
 
 
