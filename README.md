@@ -1,6 +1,5 @@
 <h1 align="center">Hi 🌱, I'm s4msk0  ></h2></h1>
- <img src="" width="8
-	 ">
+
 <div>
 
 - 👀 I’m interested in developpement and solving problem.
