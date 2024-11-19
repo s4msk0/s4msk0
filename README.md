@@ -5,7 +5,9 @@
 - 👀 I’m interested in developpement and solving problem.
 - 🌱 I’m currently learning Javascript.
 - 👾 I’m looking to collaborate on games
-- 📫 How to reach me **mefrouche03@gmail.com**
+- 📫 How to reach me  </a>
+  <a href="mefrouche03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 
 
 
