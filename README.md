@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌱, I'm s4msk0  
+<h1 align="center">Hi 🌱, I'm s4msk0  ></h2></h1>
  <img src="" width="8
 	 ">
 <div>
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/meli0dasH4ck3r/meli0dasH4ck3r/output/snake.svg" alt="Snake animation" />
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"width = 80></h2></h1>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"width = 80
 ###
 
 <div align="center">
