@@ -1,4 +1,5 @@
-<h1 align="center">Hi 🌱, I'm s4msk0  </h2></h1>
+<h1 align="center">Hi !, I'm s4msk0 
+ </h2></h1>
 
 <div>
 
@@ -27,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ###
 <h3 align="left">My other contacts :</h3>
