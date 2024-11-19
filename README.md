@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌱, I'm s4msk0  <img src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-602.gif"5"></h2></h1>
- <img src="" width="800
+ <img src="" width="8
 	 ">
 <div>
 
