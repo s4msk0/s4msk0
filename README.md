@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌱, I'm s4msk0  <img src="https://cdn.dribbble.com/users/141200/screenshots/14347341/media/15abc8076aa36537b08102e46c215d9c.gif"50"></h2></h1>
+<h1 align="center">Hi 🌱, I'm s4msk0  <img src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-602.gif"50"></h2></h1>
  <img src="" width="800
 	 ">
 <div>
