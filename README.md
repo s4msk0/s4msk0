@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript.
 - 👾 I’m looking to collaborate on games
 - 📫 How to reach me  </a>
-  <a href="mefrouche03@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 
 
@@ -56,4 +56,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meli0dasH4ck3r.meli0dasH4ck3r&"  />
 </div>
 
-###
+
