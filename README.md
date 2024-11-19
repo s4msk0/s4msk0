@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌱, I'm s4msk0  <img src="https://giphy.com/gifs/Zg51pFbwzcTcI" width="50"></h2></h1>
- <img src="https://dribbble.com/shots/14347341-Ghost-of-Tsushima-Samurai-Warrior-Animated-Banner/attachments/6012230?mode=media" width="800">
+ <img src="https://media.tenor.com/y2mvdcoFFegAAAAM/ghost-of-tsushima-sucker-punch-productions.gif" width="800">
 <div>
 
 - 👀 I’m interested in developpement and solving problem.
