@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/meli0dasH4ck3r/meli0dasH4ck3r/output/snake.svg" alt="Snake animation" />
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meli0dasH4ck3r.meli0dasH4ck3r&"  />
