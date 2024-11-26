@@ -1,4 +1,4 @@
-<h1 align="center">Hi !, I'm s4msk0 
+<h1 align="center">Hi ! I'm s4msk0 
 </h1>
 
 <div>
