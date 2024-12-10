@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ###
 <h3 align="left">My other contacts :</h3>
 <div align="left">
-  <a href="https://facebook.com//" target="_blank">
+  <a href="https://facebook.com/Samy Mefrouche/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/s4msk0/" target="_blank">
